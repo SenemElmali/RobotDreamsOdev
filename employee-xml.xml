@@ -1,0 +1,20 @@
+<Personeller>
+    <Calisan>
+        <SicilNo>11319</SicilNo>
+        <TCNo>12345678910</TCNo>
+        <Isim>Senem</Isim>
+        <Soyisim>Türkaydın Elmalı</Soyisim>
+        <DogumGunu>1980-05-27</DogumGunu>
+        <Birim>Yazılım Şube Müdürlüğü</Birim>
+        <Pozisyon>Yazılım Analisti</Pozisyon>
+        <BaslamaTarihi>2009-01-09</BaslamaTarihi>
+        <Cinsiyet>F</Cinsiyet>
+        <Adres>
+            <Il>İzmir</Il>
+            <Ilce>Karabaglar</Ilce>
+            <Mahalle>F.Altay</Mahalle>
+            <Sokak>65/5</Sokak>
+        </Adres>
+        <Tel>05555545454</Tel>
+    </Calisan>
+</Personeller>
