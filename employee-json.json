@@ -1,0 +1,22 @@
+{
+  "personeller": [
+    {
+      "SicilNo": 11319,
+      "TCNo": 12345678910,
+      "Isim": "Senem",
+      "Soyisim": "Türkaydın Elmalı",
+      "DogumGunu": "1980-05-27",
+      "Birim": "Yazılım Şube Müürlüğü",
+      "Pozisyon": "Yazılım Analisti",
+      "BaslamaTarihi": "2009-01-09",
+      "Cinsiyet": "F",
+      "Adres": {
+        "Il": "İzmir",
+        "Ilce": "Karabaglar",
+        "Mahalle": "F.Altay",
+        "Sokak": "65/5"
+      },
+      "Tel": "05555545454"
+    }
+  ]
+}
